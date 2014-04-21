@@ -1,0 +1,25 @@
+* Basic tasks
+** DONE Create TODO.org
+   CLOSED: [2014-04-21 Mon 18:01]
+** DONE Create README.md
+   CLOSED: [2014-04-21 Mon 18:01]
+** DONE Create GitHub repository
+   CLOSED: [2014-04-21 Mon 19:40]
+
+
+POC will be on Linux and Windows.
+For Windows, rudy's install script will be backported using its help.
+
+* Project POC Roadmap
+** TODO Working POC
+   DEADLINE: <2014-04-25 Fri>
+*** TODO Initialize node project
+    SCHEDULED: <2014-04-21 Mon>
+*** TODO Working POC on Linux using Transmission
+    SCHEDULED: <2014-04-22 Tue>
+*** TODO Backport Windows install script from [[https://github.com/etna-bertra-n/Daemon][previous Daemon]]
+    SCHEDULED: <2014-04-24 Thu>
+*** TODO Add support for uTorrent
+    SCHEDULED: <2014-04-24 Thu>
+*** TODO Add support for rtorrent
+    SCHEDULED: <2014-04-25 Fri>
