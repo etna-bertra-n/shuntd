@@ -13,10 +13,10 @@ For Windows, rudy's install script will be backported using its help.
 * Project POC Roadmap
 ** TODO Working POC
    DEADLINE: <2014-04-25 Fri>
-*** TODO Initialize node project
-    SCHEDULED: <2014-04-21 Mon>
+*** DONE Initialize node project
+    CLOSED: [2014-04-23 Wed 02:11]
 *** TODO Working POC on Linux using Transmission
-    SCHEDULED: <2014-04-22 Tue>
+    SCHEDULED: <2014-04-23 Wed>
 *** TODO Backport Windows install script from [[https://github.com/etna-bertra-n/Daemon][previous Daemon]]
     SCHEDULED: <2014-04-24 Thu>
 *** TODO Add support for uTorrent
